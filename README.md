@@ -40,3 +40,16 @@ npm run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+
+
+Username: admin
+Password: admin123
+
+
+Username: teamLead
+Password: teamLead123
+
+
+Username: developer
+Password: developer123
